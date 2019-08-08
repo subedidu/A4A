@@ -1,0 +1,17 @@
+[
+      {
+        "food": "Bars",
+        "price": "3.5$",
+        "calories": "65"
+      },
+      {
+        "food": "Teriyaki Salmon",
+        "price": "12$",
+        "calories": "230"
+      },
+      {
+        "food": "Fried Chicken",
+        "price": "5$",
+        "calories": "150"
+      }
+    ]

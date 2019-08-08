@@ -1,0 +1,17 @@
+[
+    {
+      "food": "Eggs",
+      "price": "2.5$",
+      "calories": "10"
+    },
+    {
+      "food": "Milk",
+      "price": "0.99$",
+      "calories": "25"
+    },
+    {
+      "food": "Oats",
+      "price": "1.5$",
+      "calories": "70"
+    }
+  ]
